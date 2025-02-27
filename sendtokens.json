@@ -1,5 +1,5 @@
 {
-  ".Primitives/Send": {
+  "Primitives/Send": {
     "Colors": {
       "Base": {
         "white": {
@@ -5806,7 +5806,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      ".Primitives/Send",
+      "Primitives/Send",
       "1. Color modes/Light mode",
       "1. Color modes/Dark mode",
       "6. Typography/Value",
